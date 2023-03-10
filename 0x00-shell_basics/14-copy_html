@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -urp /*.html . ../
+cp -urp *.html . ../
